@@ -1,0 +1,8 @@
+This is my first text file I created using git to track changes in my text file. 
+I am learning how to use GitHub. 
+I am a beginner in programming. 
+I am learning python. 
+I am a student. 
+I love to learn new things.
+I like to learn new programming languages.
+I like to learn new technologies.
