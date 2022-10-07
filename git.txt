@@ -6,10 +6,7 @@ I am a student.
 I love to learn new things.
 I like to learn new programming languages.
 I like to learn new technologies.
-
-
+I like to learn new things.
 I am learning how to use git and GitHub.
 Which is a version control system.
 I really like this version control system it is very useful.
-
-
