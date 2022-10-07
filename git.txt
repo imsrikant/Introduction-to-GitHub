@@ -6,3 +6,4 @@ I am a student.
 I love to learn new things.
 I like to learn new programming languages.
 I like to learn new technologies.
+Currently, I'm learning git and GitHub.
